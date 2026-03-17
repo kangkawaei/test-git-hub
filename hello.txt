@@ -1,0 +1,11 @@
+# ไม่ต้องเก็บไฟล์รหัสผ่าน
+secret.txt
+config.env
+
+# ไม่ต้องเก็บโฟลเดอร์ขยะของ Python
+__pycache__/
+*.pyc
+
+# ไม่ต้องเก็บไฟล์ของระบบ
+.DS_Store
+thumbs.db
